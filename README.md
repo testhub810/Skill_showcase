@@ -1,1 +1,1 @@
-# skill-gacha
+# Skill showcase
