@@ -7,7 +7,7 @@ body{
     overflow-x:hidden;
 }
 body{
-    background-image:url("grass.png");
+    background-image:url("images/grass.png");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -57,7 +57,7 @@ body{
 }
 #card h2{
     font-size:28px;
-    margin-bottom:20px;
+    margin:0 0 5px 0;
 }
 
 #card p{
@@ -166,4 +166,12 @@ h1{
     #count{
         font-size:16px;
     }
+}
+.profile-image{
+    width:100%;
+    max-width:400px;
+    height:auto;
+    display:block;
+    margin:20px auto;
+    image-rendering:auto;
 }
